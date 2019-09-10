@@ -1,9 +1,9 @@
 ---
 title: First Post
-summary:
+summary: Look, a new post!
 date: "2019-09-10"
 
-reading_time: false
+reading_time: false # Show estimated reading time?
 share: false # Show social media stuff?
 profile: false # Show author profile?
 comments: false # Show comments?
@@ -12,7 +12,8 @@ comments: false # Show comments?
 header:
   caption: ""
   image: ""
- ---  
+ 
+---  
  
 # Behold, Jojo!
 
