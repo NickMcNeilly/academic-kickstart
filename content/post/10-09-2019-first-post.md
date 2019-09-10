@@ -18,3 +18,15 @@ header:
 # Behold, Jojo!
 
 First post. The quick brown fox jumps over the lazy dog. Hello world!
+
+[Google link here](https://google.ca)
+
+_Italics_. **Bolded**. ~~Strikethrough~~.
+
++ Bullet point 1!
++ Bullet point 2!
++ Bullet point 3!
+
+## Subheader level two
+
+### Subheader level three
