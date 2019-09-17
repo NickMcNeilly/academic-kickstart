@@ -15,5 +15,16 @@ header:
  
 ---  
  
-# Project Ideas
+## Project Ideas
 
+I have a few ideas for a potential project focusing on Ottawa.
+
+- Ottawa's disasters
+- Parliament's visual history
+- Hungry Ottawa / Tasty rural communities
+
+Methodologies to explore:
+
+ - Twine narratives (Twine cookbook)
+ - TaleBlazer
+ - Unity AR
