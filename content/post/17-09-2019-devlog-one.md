@@ -30,3 +30,4 @@ Methodologies to explore:
  - TaleBlazer
  - Unity AR
  - Sound & Audio
+ - Projection Mapping
