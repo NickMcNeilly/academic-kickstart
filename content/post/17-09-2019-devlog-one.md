@@ -22,6 +22,7 @@ I have a few ideas for a potential project focusing on Ottawa.
 - Ottawa's disasters
 - Parliament's visual history
 - Hungry Ottawa / Tasty rural communities
+- Skylines & light pollution
 
 Methodologies to explore:
 
