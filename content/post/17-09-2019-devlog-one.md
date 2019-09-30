@@ -32,3 +32,5 @@ Methodologies to explore:
  - Sound & Audio
  - Projection Mapping
  - Mozilla hubs
+
+This being my first history project, I'll need to acquaint myself with the research resources available to me.
