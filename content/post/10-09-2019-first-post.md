@@ -15,7 +15,7 @@ header:
  
 ---  
  
-# Behold, Jojo!
+# Test Post
 
 First post. The quick brown fox jumps over the lazy dog. Hello world!
 
