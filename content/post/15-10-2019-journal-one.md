@@ -19,8 +19,10 @@ header:
 ## Code
 ### October 15, 2019
 
-- It was expensive to get started with code. The devices needed to do code had a high entry cost.
-- Originally, games were seen as a source of good: computing was seen as a transformative experience. After Columbine, they were seen in a much more negative light.
-- These days, teaching coding is seen as a corporate moneypot. These skills are considered highly valuable for capitalistic moneymaking at low cost.
-- There's pushback to DH. Some see it as a neoliberalization of the University, others see it as a 'dumbing down' of the Humanities.
-- Prof. Graham foudn access to archaeological resources online that would have been impossible to access traditionally.
+- It was expensive to get started with code. The devices needed to do code had a high entry cost
+- Originally, games were seen as a source of good: computing was seen as a transformative experience. After Columbine, they were seen in a much more negative light
+- These days, teaching coding is seen as a corporate moneypot. These skills are considered highly valuable for capitalistic moneymaking at low cost
+- There's pushback to DH. Some see it as a neoliberalization of the University, others see it as a 'dumbing down' of the Humanities
+- Prof. Graham foudn access to archaeological resources online that would have been impossible to access traditionally
+- Netlogo simulations
+- It's not just about the code, it's about what the code can do
