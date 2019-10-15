@@ -46,3 +46,4 @@ header:
 - Representing information in the least amount of space is key
 - Algorithms are expressed in higher language 'code'
 - Humanities are important to give different worldviews on the engineer's domain
+- 19th century colonialism lays the groundwork for telephone lines, which leads to computer lines, which leads to fiber, etc etc
