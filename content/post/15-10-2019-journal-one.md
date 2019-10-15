@@ -34,3 +34,11 @@ header:
 - Programming is an act of forgetting. The side-effect of 'it just works' is everything that's been forgotten
 - You don't need to learn to code to know how coding may be used or misused
 - The British government did a forced merger of the computing industry to create a supercomputer, since they couldn't find enough male workers to do the job and the labour-class working women were seen as untrustworthy
+- Babbage attempted to create the Differences Engine to compute logarithm tables
+- Ada Lovelace understands what Babbage is on about, and works out how to program his mechanical computer
+- Coding is seen as a masculine thing
+- When the money starts coming in, things start to get complicated - no more simple text files
+- Turing was behind the coding engine that broke the Nazi code
+- What is an algorithm? If you've followed the instructions on a box of oats, you've read an algorithm
+- The right language for the job varies
+- if y cn rd ths y cn gt a jb : Decoding, understanding what is missing
