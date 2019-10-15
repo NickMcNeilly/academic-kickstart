@@ -1,7 +1,7 @@
 ---
 title: DIGH Open Journal
 summary: Open notes taken during DIGH 5000 readings and seminars
-date: "2019-09-10"
+date: "2019-10-15"
 
 reading_time: false # Show estimated reading time?
 share: false # Show social media stuff?
@@ -15,6 +15,7 @@ header:
  
 ---  
  
-## October 15, 2019
+## Code
+### October 15, 2019
 
 Notes
