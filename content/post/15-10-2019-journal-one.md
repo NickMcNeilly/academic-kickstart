@@ -43,3 +43,6 @@ header:
 - The right language for the job varies
 - if y cn rd ths y cn gt a jb : Decoding, understanding what is missing
 - Boole works out the conditionals: if/and/or/not
+- Representing information in the least amount of space is key
+- Algorithms are expressed in higher language 'code'
+- Humanities are important to give different worldviews on the engineer's domain
