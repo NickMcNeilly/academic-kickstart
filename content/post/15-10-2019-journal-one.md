@@ -14,7 +14,7 @@ header:
   image: ""
  
 ---  
-# Open Journal 
+# DIGH 5000 Open Journal 
  
 ## Code
 ### October 15, 2019
