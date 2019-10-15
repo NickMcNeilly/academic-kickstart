@@ -32,3 +32,4 @@ header:
 - For a long time, the computer wasn't a machine - it was a person
 - There is some mapping between how we use the worlds and how computers interpret those words. To get from 'make an infinite maze for me' to pulses of electrical energy, there must be some layer of translation and interpretation
 - Programming is an act of forgetting. The side-effect of 'it just works' is everything that's been forgotten
+- You don't need to learn to code to know how coding may be used or misused
