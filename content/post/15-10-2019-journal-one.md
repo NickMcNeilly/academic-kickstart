@@ -26,3 +26,5 @@ header:
 - Prof. Graham foudn access to archaeological resources online that would have been impossible to access traditionally
 - Netlogo simulations
 - It's not just about the code, it's about what the code can do
+- 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 <--- Code Example, break it down
+- Like languages generally, there are contextual fossils within code - the 'Print' command, now associated with displaying text on a screen, was once used to literally print from teletype machines
