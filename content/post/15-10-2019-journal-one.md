@@ -33,3 +33,4 @@ header:
 - There is some mapping between how we use the worlds and how computers interpret those words. To get from 'make an infinite maze for me' to pulses of electrical energy, there must be some layer of translation and interpretation
 - Programming is an act of forgetting. The side-effect of 'it just works' is everything that's been forgotten
 - You don't need to learn to code to know how coding may be used or misused
+- The British government did a forced merger of the computing industry to create a supercomputer, since they couldn't find enough male workers to do the job and the labour-class working women were seen as untrustworthy
