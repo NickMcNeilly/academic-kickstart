@@ -42,3 +42,4 @@ header:
 - What is an algorithm? If you've followed the instructions on a box of oats, you've read an algorithm
 - The right language for the job varies
 - if y cn rd ths y cn gt a jb : Decoding, understanding what is missing
+- Boole works out the conditionals: if/and/or/not
