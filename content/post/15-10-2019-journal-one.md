@@ -14,8 +14,9 @@ header:
   image: ""
  
 ---  
+# Open Journal 
  
-# Code
+## Code
 ### October 15, 2019
 
 Notes
