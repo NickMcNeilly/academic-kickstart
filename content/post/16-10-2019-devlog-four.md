@@ -19,3 +19,4 @@ header:
 
 Work has been going well, with no major hiccups so far. Doing some research, I've discovered that the wages for canal labourers at the time of the game was only enough for a labourer and his wife at best - no children. With that in mind, I've pared down the family size from six to four to ensure the task of feeding everyone is simply monumental, rather than downright impossible.
 
+I've elected to use the Sugarcube framework for Twine instead of Harlowe. Sugarcube already comes packaged with a GUI, whereas Harlowe is much more minimalist. This would be good for an interactive novel, but I think I've decided by now that this project is going to result in something more easily called a game than a novel. Furthermore, the Sugarcube documentation is very well-written: https://www.motoslave.net/sugarcube/2/docs/
