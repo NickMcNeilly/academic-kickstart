@@ -89,6 +89,7 @@ I'm not a coder by trade, so I apologize to any programmers out there who find t
 
 ~~~
 Medicine power is determined by the quality of purchased medicine as well as if they player has prayed for health that week.
+Prayer gives a much smaller bonus to medicine power than both low-quality and high-quality medicine.
 
 Then, each family member rolls a number from 0 - 100.
 
