@@ -99,8 +99,7 @@ Several things can happen, here:
 - If the player is sick and rolls above 95*, they are cured.
 - If non-player family members are sick and roll under 10*, their health gets even worse.
 - If non-player family members are sick and roll over 95*, their condition improves. If this improvement results in their health rising above a certain point, they are cured.
-
-Finally, if the player is sick, after all these calculations are applied their health stat degrades.
+- If the player is still sick after all these calculations, are applied their health stat degrades.
 
 *These values are reduced to varying degrees by recovery power. A higher recovery power makes it easier to recover from disease and harder for a disease to worsen.
 
