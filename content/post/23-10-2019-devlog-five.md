@@ -22,24 +22,11 @@ It's been a productive week. I've been focusing on getting the core gameplay loo
 
 ![Overview](/static/img/DevlogFive.PNG)
 
-Here's an example of the code in the 'Sleep' Passage
- 	
+Currently I've implemented: Player stats (wealth, health, family, social, state), family stats (hunger, health), working for money, a store where you can buy food and medicine, custom names for yourself and your family, a player home, disease & medicine, a church where you can pray against disease, family death, and player death.
+
+To get a sense of what the code within these passages looks like, here's the current code in the 'Sleep' passage that handles disease: 	
 
 ~~~~
-<<if $health gt 0>>\
-<<nobr>>
-You lay your head down and go to sleep, <<if $wAlive is true and $fr gte 3>> with your wife curled up next to you. <<else>> alone. <</if>>
-
-<<if $wAlive is true and $wHealth is 0 or $wAlive is true and $wNeeds is 0>>
-<<set $deathFlag to true>> <</if>>
-<<if $sAlive is true and $sHealth is 0 or $sAlive is true and $sNeeds is 0>>
-<<set $deathFlag to true>> <</if>>
-<<if $dAlive is true and $dHealth is 0 or $dAlive is true and $dNeeds is 0>>
-<<set $deathFlag to true>> <</if>>
-<</nobr>>
-
-After a night's rest, you awaken to start the new day.
-
 <<nobr>>
 /* Disease */
 <<set _pDiseaseHit to random(100)>> <<set _wDiseaseHit to random(100)>> <<set _sDiseaseHit to random(100)>> <<set _dDiseaseHit to random(100)>>
@@ -58,13 +45,7 @@ After a night's rest, you awaken to start the new day.
 <<case 1>>
 <<set _medPower to 0>>
 <</switch>>
-<</nobr>>
-MEDPOWER: (_medPower))
-You rolled a: (_pDiseaseHit)
-$wife rolled a: (_wDiseaseHit)
-$son rolled a: (_sDiseaseHit)
-$daughter rolled a: (_dDiseaseHit)
-<<nobr>>
+
 /* PLAYER ILLNESS */
 
 <<if _pDiseaseHit <= 50 and $illness is false>> 
@@ -102,20 +83,22 @@ $daughter has fallen ill.  <<set $famSick += 1>> <<set $dHealthDis -= 10>>
 <<if $famSick is 0>> Everyone's health remains stable. <<elseif $famSick is 1>> $famSick of you is sick. <<else>> $famSick of you are sick. <</if>>
 
 <<if $illness>> <<set $health -= 10>> <</if>>
-
-<</nobr>>
-
-<<if $deathFlag>>[[Something's wrong...|Family Death]]<<else>>[[Get ready for work.|Corktown Hub]]<</if>>
-
-<<set $daytime to true>>
-<<set $week += 1>>
-<<set $weekFoodBuy to false>>
-<<set $weekMedBuy to false>>
-<<set $weekPrayed to false>>
-<<set $medQuality to 1>>
-<<else>>\
-<<nobr>>
-You lay your head down and go to sleep, <<if $wAlive is true and $fr gte 3>> with your wife curled up next to you. <<else>> alone. <</if>><</nobr>>
-
-[[You don't wake up.|Player Death]]<</if>>
 ~~~~
+
+I'm not a coder by trade, so I apologize to any programmers out there who find themselves in dire need of a barf bag after reading that mess. The above code does the following, in this order:
+
+~~~
+Medicine power is determined by the quality of purchased medicine as well as if they player has prayed for health that week.
+
+Then, each family member rolls a number from 0 - 100.
+
+Several things can happen, here:
+- If they are healthy and roll 10 or higher, they stay healthy.
+- If they are healthy and roll under 10, they become sick.
+- If the player is sick and rolls above 95 (this number is lower with a higher medicine power), they are cured.
+- If non-player family members are sick and roll under 10 (this number is lower with a higher medicine power), their health gets even worse.
+- If non-player family members are sick and roll over 95 (this number is lower with a higher medicine power) their condition improves. If this improvement results in their health rising above a certain point, they are cured.
+- If the player is sick, their health degrades.
+~~~
+
+
