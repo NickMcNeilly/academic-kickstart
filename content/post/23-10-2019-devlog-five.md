@@ -87,8 +87,8 @@ $daughter has fallen ill.  <<set $famSick += 1>> <<set $dHealthDis -= 10>>
 
 I'm not a coder by trade, so I apologize to any programmers out there who find themselves in dire need of a barf bag after reading that mess. Simplifying the code above into layman's terms, I can describe what is happening here roughly as follows:
 
-~~~
-Recovery power (called _medPower) is determined by the quality of purchased medicine as well as if they player has prayed for health that week.
+
+>Recovery power (called _medPower) is determined by the quality of purchased medicine as well as if they player has prayed for health that week.
 Prayer gives a much smaller bonus to recovery power than both low-quality and high-quality medicine.
 
 Then, each family member rolls a random number from 0 - 100.
