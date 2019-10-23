@@ -87,7 +87,7 @@ $daughter has fallen ill.  <<set $famSick += 1>> <<set $dHealthDis -= 10>>
 
 I'm not a coder by trade, so I apologize to any programmers out there who find themselves in dire need of a barf bag after reading that mess. Simplifying the code above into layman's terms, I can describe what is happening here roughly as follows:
 
-
+~~~
 Recovery power (called _medPower) is determined by the quality of purchased medicine as well as if they player has prayed for health that week.
 Prayer gives a much smaller bonus to recovery power than both low-quality and high-quality medicine.
 
@@ -102,6 +102,7 @@ Several things can happen, here:
 - If the player is still sick after all these calculations, are applied their health stat degrades.
 
 *These values are reduced to varying degrees by recovery power. A higher recovery power makes it easier to recover from disease and harder for a disease to worsen.
+~~~
 
 All these numbers are still being tweaked for difficulty, but what this essentially results in is a functioning health system. As you and your family become ill, you are encouraged to buy medicine - which is expensive - to help them recover. Failure to do this is likely to result in their illnesses getting worse, leading up to their death. It's rough and unforgiving, as intended.
 
