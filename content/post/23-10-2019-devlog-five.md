@@ -22,7 +22,7 @@ It's been a productive week. I've been focusing on getting the core gameplay loo
 
 ![Overview](/static/img/DevlogFive.PNG)
 
-Currently I've implemented: Player stats (wealth, health, family, social, state), family stats (hunger, health), working for money, a store where you can buy food and medicine, custom names for yourself and your family, a player home, disease & medicine, a church where you can pray against disease, family death, and player death.
+Currently I've implemented: Player stats (wealth, health, family, social, state), family stats (hunger, health), a day/night cycle, working for money, a store where you can buy food and medicine, custom names for yourself and your family, a player home, disease & medicine, a church where you can pray against disease, family death, and player death.
 
 To get a sense of what the code within these passages looks like, here's the current code in the 'Sleep' passage that handles disease: 	
 
@@ -98,9 +98,12 @@ Several things can happen, here:
 - If the player is sick and rolls above 95*, they are cured.
 - If non-player family members are sick and roll under 10*, their health gets even worse.
 - If non-player family members are sick and roll over 95*, their condition improves. If this improvement results in their health rising above a certain point, they are cured.
-- If the player is sick, their health degrades.
+
+Finally, if the player is sick, after all these calculations are applied their health stat degrades.
 
 * These values are reduced to varying degrees by medicine power. A higher medicine power makes it easier to recover from disease and harder for a disease to worsen.
 ~~~
+
+These values are still being tweaked for difficulty, but what this essentially results in is a functioning health system. As you and your family become ill, you are encouraged to buy medicine - which is expensive - to help them recover. Failure to do this is likely to result in their illnesses getting worse, leading up to their death. It's rough and unforgiving, as intended.
 
 
