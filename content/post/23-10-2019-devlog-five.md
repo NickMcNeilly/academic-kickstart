@@ -85,7 +85,7 @@ $daughter has fallen ill.  <<set $famSick += 1>> <<set $dHealthDis -= 10>>
 <<if $illness>> <<set $health -= 10>> <</if>>
 ~~~~
 
-I'm not a coder by trade, so I apologize to any programmers out there who find themselves in dire need of a barf bag after reading that mess. The above code does the following, in this order:
+I'm not a coder by trade, so I apologize to any programmers out there who find themselves in dire need of a barf bag after reading that mess. Simplifying the code above into layman's terms, I can describe what is happening here roughly as follows:
 
 ~~~
 Medicine power is determined by the quality of purchased medicine as well as if they player has prayed for health that week.
