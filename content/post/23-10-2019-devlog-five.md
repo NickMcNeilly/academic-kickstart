@@ -20,7 +20,7 @@ header:
 
 It's been a productive week. I've been focusing on getting the core gameplay loop implemented, as well as all the required features. You can see the overall gametree below:
 
-![(/static/img/DevlogFive.PNG](/static/img/DevlogFive.PNG)
+![Overview](/static/img/DevlogFive.PNG)
 
 Currently I've implemented: Player stats (wealth, health, family, social, state), family stats (hunger, health), a day/night cycle, working for money, a store where you can buy food and medicine, custom names for yourself and your family, a player home, disease & medicine, a church where you can pray against disease, family death, and player death.
 
