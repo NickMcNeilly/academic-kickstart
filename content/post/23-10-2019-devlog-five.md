@@ -95,10 +95,12 @@ Then, each family member rolls a number from 0 - 100.
 Several things can happen, here:
 - If they are healthy and roll 10 or higher, they stay healthy.
 - If they are healthy and roll under 10, they become sick.
-- If the player is sick and rolls above 95 (this number is lower with a higher medicine power), they are cured.
-- If non-player family members are sick and roll under 10 (this number is lower with a higher medicine power), their health gets even worse.
-- If non-player family members are sick and roll over 95 (this number is lower with a higher medicine power) their condition improves. If this improvement results in their health rising above a certain point, they are cured.
+- If the player is sick and rolls above 95*, they are cured.
+- If non-player family members are sick and roll under 10*, their health gets even worse.
+- If non-player family members are sick and roll over 95*, their condition improves. If this improvement results in their health rising above a certain point, they are cured.
 - If the player is sick, their health degrades.
+
+* These values are reduced to varying degrees by medicine power. A higher medicine power makes it easier to recover from disease and harder for a disease to worsen.
 ~~~
 
 
