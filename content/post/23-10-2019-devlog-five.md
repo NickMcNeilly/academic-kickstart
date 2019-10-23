@@ -22,6 +22,8 @@ It's been a productive week. I've been focusing on getting the core gameplay loo
 
 ![Overview](/static/img/DevlogFive.PNG)
 
+And here's a temporary link until I figure out how to properly embed images: https://www.dropbox.com/s/btxfu2xylaw4zvv/DevlogFive.PNG?dl=0
+
 Currently I've implemented: Player stats (wealth, health, family, social, state), family stats (hunger, health), a day/night cycle, working for money, a store where you can buy food and medicine, custom names for yourself and your family, a player home, disease & medicine, a church where you can pray against disease, family death, and player death.
 
 To get a sense of what the code within these passages looks like, here's the current code in the 'Sleep' passage that handles disease: 	
