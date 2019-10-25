@@ -50,7 +50,7 @@ To get a sense of what the code within these passages looks like, here's the cur
 
 /* PLAYER ILLNESS */
 
-<<if _pDiseaseHit <= 50 and $illness is false>> 
+<<if _pDiseaseHit <= 10 and $illness is false>> 
 You have fallen ill.  <<set $famSick += 1>> <<set $illness to true>> 
 
 <<elseif _pDiseaseHit >= (95 - (_medPower / 2)) and $illness is true>> <<set $illness to false>> You are no longer sick. <<set $famSick -= 1>><</if>>
