@@ -20,7 +20,7 @@ header:
 
 It's been a productive week. I've been focusing on getting the core gameplay loop implemented, as well as all the required features. You can see the overall gametree below:
 
-![Overview](/static/img/DevlogFive.PNG)
+![Overview](/img/DevlogFive.PNG)
 
 And here's a temporary link until I figure out how to properly embed images: https://imgur.com/a/MQtZFZ3
 
