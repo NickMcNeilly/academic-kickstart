@@ -1,6 +1,6 @@
 ---
 title: DIGH Open Journal
-summary: Open notes taken during DIGH 5000 readings and seminars
+summary: Open notes taken during DIGH 5000 readings
 date: "2019-10-15"
 
 reading_time: false # Show estimated reading time?
