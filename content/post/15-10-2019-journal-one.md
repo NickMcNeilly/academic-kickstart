@@ -16,4 +16,4 @@ header:
 ---  
 # DIGH 5000 Open Journal 
 
-[Archives and Databases](https://nickmcneilly.github.io/academic-kickstart/content/Open Journal Readings 1 (Archives).html)
+[Archives and Databases](https://nickmcneilly.github.io/academic-kickstart/content/OJournal 1 Archives.html)
