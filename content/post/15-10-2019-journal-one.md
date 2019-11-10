@@ -23,3 +23,6 @@ There was a lot of uncertainty in my readings for this week. I thought the  'Gho
 
 # Digital Storytelling
 
+[Digital Storytelling](https://nickmcneilly.github.io/openjournal/OJ2.html)
+
+This week's readings were super relevant to my interests. I'm an avid writer and gamer both, and the subject of storytelling in digital mediums would probably be the topic of my research paper if I wasn't taking the coursework stream. There's some disturbing stuff in these readings, too - particularly in relation to Gamergate, the history of which is a 'story' in its own way - but the rest was encouraging.Natalia Martinsson's presentation was especially useful.
