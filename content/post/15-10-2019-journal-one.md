@@ -28,3 +28,5 @@ This week's readings were super relevant to my interests. I'm an avid writer and
 
 # Sound
 [Sound](https://nickmcneilly.github.io/openjournal/OJ3.html)
+
+This was a fun one, since it gave me a lot of inspiration for my February 'Computational Creativity' presentation. In the interests of preventing overlap, I'll try to focus on the subject of sound itself. Sound has always seemed to be somewhat underrepresented in humanities work, but (in my limited experience) it seems to significantly more attention in digital circles. Is this because audio and sound are so closely linked to the digital these days that they become part and parcel of DH merely by association, or is the additional focus more a result of the interdisciplinary nature of DH? Is it neither of these things, and DH scholars simply find audio a useful medium for expressing or investigating their subjects of interest?
