@@ -1,7 +1,7 @@
 ---
-title: Devlog Ten
-summary: Finale
-date: "2019-12-04"
+title: Devlog Nine
+summary: Conclusions
+date: "2019-12-01"
 
 reading_time: false # Show estimated reading time?
 share: false # Show social media stuff?
