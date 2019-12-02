@@ -1,7 +1,7 @@
 ---
 title: Devlog Seven
 summary: More Progress
-date: "2019-11-19"
+date: "2019-11-18"
 
 reading_time: false # Show estimated reading time?
 share: false # Show social media stuff?
