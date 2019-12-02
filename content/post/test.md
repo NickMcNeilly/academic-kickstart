@@ -1,5 +1,5 @@
 ---
-title: TEST
+title: Devlog 10
 summary: Nearing Completion
 date: "2019-12-02"
 
