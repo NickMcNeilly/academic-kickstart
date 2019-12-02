@@ -17,4 +17,4 @@ header:
  
 ## Concluding Thoughts
 
-The game has been completed and playtested.
+TBD
