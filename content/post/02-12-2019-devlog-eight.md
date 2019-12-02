@@ -1,7 +1,7 @@
 ---
 title: Devlog Eight
 summary: Nearing Completion
-date: "2020-12-01"
+date: "2019-12-01"
 
 reading_time: false # Show estimated reading time?
 share: false # Show social media stuff?
