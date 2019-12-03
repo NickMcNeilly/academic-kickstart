@@ -15,9 +15,13 @@ header:
  
 ---  
  
-## Playtesting and Hair-Tearing
+## Playtesting
 
 The game has undergone some playtesting in the last 24 hours - most of the changed fixed were small balancing tweaks to make more options viable. For example, the price of good food of reduced, and the compassion and social consequences for doing misdeeds was increased - it was far too forgiving to make much of a difference, originally. 
+
+It feels strange to say it's done - though it's technically met all of its initial goals, there have been various perpiheral features (like images and sounds) that I would have liked to add if I had more time. Furthermore, my creative writing skills tend to focus on characterization and character-building, and I never really got the chance to flex those muscles in this particular narrative. I think this issue arose primarily from my inexperience with non-fiction. I spent a lot of time worrying I wasn't being accurate enough, which made me reluctant to take any risks with the characters or setting - which may be one of the reasons the characters may seem to come across as ethereal and passive, at least from my perspective.
+
+## Hair-Tearing
 
 Funnily enough, most of the time spent on this phase was spent grappling with Hugo, which is the code foundation you are reading this text on. The Academic theme for Hugo, which I am using, does not appreciate it when you date posts in the future. Seeing as I had released Devlog Eight at 1am, attempting to release this Devlog on the same day meant they were listed alphabetically rather than chronologically, since they were on the same date - and Devlog Eight was organized above Devlog Nine. To remedy this, I attempted to set Devlog Nine's creation date to December 3rd, which is tomorrow. I assumed this would work without error - instead, the devlog refused to upload entirely. After agonizing over this rather simple 'bug' for hours, I eventually concluded - after returning to the error after a break - that dating your Hugo posts into the future does not release that post immediately with the future date, but actually holds onto your post, unpublished, and promptly publishes it automatically when the designated date comes to actually pass.
 
